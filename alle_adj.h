@@ -12,8 +12,8 @@ char ans[7];
 /**************************************************
 *         Initialization of Structs              
 **************************************************/
-extern int func()
-{                   
+extern int func()                             //Initialization of the ans variable;
+{                               
  struct block block1={.ans="en"};
  struct block block2={.ans="en"};
  struct block block3={.ans="e"};
@@ -40,10 +40,9 @@ test19, test20; //boolean variable to the result of strcmp;
 
 
              
-puts("N=nominativ/A=akkusativ/D=dativ/G=genetiv\n#F=\
-feminin/M=maskulin/N=neutral\n#S=singular/P=plural");
+puts("N=nominativ/A=akkusativ/D=dativ/G=genetiv\n#F=\feminin/M=maskulin/N=neutral\n#S=singular/P=plural");
 puts("********************************");
-puts("Ergänzen Sie die folgende Sätzen");
+puts("Ergänzen Sie die folgende Sätze");
 puts("********************************");
 /*1*/
 puts("********************************");
