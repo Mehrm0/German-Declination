@@ -1,7 +1,7 @@
-# German-Declination.
+# German-Declination
 A `C' code to exercise  German declination.
 
-I've created a C program for exercising and assessing the german declination abilities. It uses string comparison to ask about declination of endings. The 
+I've created a C program for exercising and assessing the German declination abilities. It uses string comparison to ask about declination of endings. The 
 first file, alle_adj.h is the first exam that covers all three adjective declinations in 20 questions . I'll add other files to cover other topics of 
 declination.
  **clang version 10.0.0-4ubuntu1** was used to compile and test the code.Propositions for improving the code are always welcome. To compile the code on 
