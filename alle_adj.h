@@ -42,7 +42,7 @@ test19, test20; //boolean variable to the result of strcmp;
              
 puts("N=nominativ/A=akkusativ/D=dativ/G=genetiv\n#F=\feminin/M=maskulin/N=neutral\n#S=singular/P=plural");
 puts("********************************");
-puts("Ergänzen Sie die folgende Sätze");
+puts("Ergänzen Sie die folgenden Sätze");
 puts("********************************");
 /*1*/
 puts("********************************");
